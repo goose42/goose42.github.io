@@ -1,11 +1,12 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
+heading: Hi
 ---
 
 I'm Jayanth Visweswaran.
 
-I write code. 
+I write code.
 
 `<insert more detail>`
